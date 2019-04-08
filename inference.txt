@@ -1,0 +1,33 @@
+[원본 : 연결사 추론 -> 변형 문제 문맥 어휘 예상]
+
+#1 The quality of a decision cannot be determined unambiguiusly by its outcome.
+해석 : 결정의 질은 명확하게 결정될 수 없습니다. 그것의 결과에 의해 
+
+#2 For example, most of us believe it would be foolish to accept a bet that he next time we throw a pair of dice
+we will roll "snake eyes."
+해석 : 예를 들어서, 우리 대부분은 믿는다. 그것은 어리석을 것이다. 내기를 받아들이는 것 (그 내기가 뭐냐면) 우리가 다음에 두개의 주사위를 던질때
+우리가 뱀눈을 굴릴것 이라고. 
+
+#3 Moreover, we would regard the person who accepted such a bet as a <poor/> decision maker - even if 
+he or she happened to roll snake eyes.
+해석 : 게다가, 우리는 <그 내기를 받아드리는 사람>을 <멍청한 선택 만드미> 라고 간주한다. - 심지어 만약 그 또는 그녀가 뱀눈을 굴려도.
+ 
+#4 ___A___, if that person were in danger of physical harm or death at the hands of a loan shark,
+and that bet were the only way to raise enough money to avoid harm, them the person might not seem so <foolish/>.
+해석 : A   , 만약 그 사람이 물리적 피해 또는 죽음 악덕 사채업자의 손에 의해 ,그리고 그 내기가 유일한 방법 피해를 피하기에 충분한 돈, 그사람은
+그렇게 어리석지 않습니다. A = "반면에"
+
+#5 What this example illustrates is that it is the potential outcomes, their probabilities, and their values to
+the decision maker at the time the decision is made that lead us to judge a particular choice to be wise or foolish.
+해석 : 이 예시는 분명하게 보여준다. 그것은 잠재적 결과, 그들의 가능성, 그리고 그들의 가치 선택, 그 결정이 내려지는 시점 은 만든다 우리를 이끌게
+현명하거나 바보같은 선택.
+
+#6 A general who is losing a war,___B___, is much <wiser/> to engage in a high-risk military venture than is 
+a general who is winning a war.
+해석 : 장군, 누구나면 전쟁에서 지고 있는, (B), 은 현명하다 위험이 큰 군사상 모험을 하는것이 더욱, 장군, 누구나면 전쟁에서 이기고 있는 보다. 
+
+#7 The faulure of such a venture might not reflect <unfavorably/> on the decision-making ability of the losing general;
+it is more <"rational"/> for the losing general to take a risk.
+그러한 실패는 그 선택에 대한 나쁜 영향을 주지 않는다. 지고 있는 장군의 결정능력에, 그것은 더욱 합리적이다. 지고 있을때 모험을 하는 것이.
+
+* </>로 싸여 있는 부분이 문맥 바꾸는 문제에서 바뀔 것이다. 문맥을 기억해 두도록 하자. 
