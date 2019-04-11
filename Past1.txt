@@ -1,0 +1,30 @@
+# 1 : When temperatures near 0'C, water molecules start bonding with one another to form a crystal tructrue.
+해석 : 온도가 0도로 떨어지면, 물분자들은 결합하기 시작한다. 다른 분자들과 크리스탈 형태로.
+
+# 2 : The hydrogen atoms of each molecule connect to the oxygen atoms of other molecules.
+해석 : 각 문자들의 수소 원자들은 결합 합니다. 다른 분자들의 산소 원자들과.
+
+# 3 : The resulting structure creates a greater amount of space between the molecules than there was when the molecules
+floated freely about in a liquid state.
+해석 : 결과 구조물은 만듭니다. 더 많은 양의 빈 공간을 만든다. 액체 상태에서 자유롭게 떠 다니던 때 보다.
+
+# 4 : All that extra space between the molecules is why ice is less dense than liquid water - and the reason ice ____.
+해석 : 분자사이의 공간은 왜 얼음이 물보다 밀도가 낮은지, 얼음이 (?)는 이유다.
+
+# 5 : The characteristic of water is good news for fish and other animals that live underwater wherever 
+the temperatures drop to freezing.
+해석 : 이러한 물의 특성은 좋은 소식이다. 물고기와 동물들 ((수면 아래 사는) 얼어 붙을 정도로 온도가 떨어지는 곳이면 어디든)
+
+# 6 : When the water in a lake, for instance, begins to freeze, the first tiny ice crystals that form remain on the surface.
+해석 : 물속이 얼어 붙기 시작하면, 처음으로 얇은 얼음 결정이 수면에 남게 된다.
+
+# 7 : Eventually, a layer of floating ice will form on the water's surface, which seals in the liquid 
+water below and keeps it from freezing. 
+해석 : 결국, 떠있는 얼음의 층이 물의 수면에 떠 있을 것이다. 그 아래에 있는 액체 상태의 물을 밀봉하여 동결하는 것으로 부터 지켜주는 것이다.
+
+# 8 : If water became more dense when it froze - the way most substances do - then the ice crystals would keep sinking to the
+bottom.
+해석 : 만약 물보다 얼음이 더 밀도가 높다면 대부분의 물질이 그렇듯이 얼음 결정은 가라 앉아서 바닥부터 얼 것이다.
+
+# 9 : Eventually, the entire lake would be frozen solid from top to bottom - which would be bad news for the fish.
+해석 : 결국 전체가 밑에서 부터 위로 얼게 되고 물고기들에게 안좋은 소식이 된다.
